@@ -1,0 +1,5 @@
+name: untitledBetterWild
+version: '1.0-SNAPSHOT'
+main: org.untitledBetterWild.UntitledBetterWild
+api-version: '1.21'
+description: 친구들을 위한 야생 편의성 플러그인
